@@ -96,3 +96,6 @@ http://localhost:5000/api/tasks
 - This backend can be connected to a React frontend for a complete full-stack Task Manager application.
 
 ---
+
+## ** Loom Video Link**
+https://www.loom.com/share/4e47b1c7dd434fabb5cda15fcc25f7bb?sid=b9059327-a1d3-4b71-962f-1da445bba041
